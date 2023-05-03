@@ -1,0 +1,6 @@
+spacy
+lemmagen3
+pickle
+pands
+nltk
+scikit-learn
